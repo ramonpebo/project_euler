@@ -1,3 +1,3 @@
 # Project Euler Exercises
 
-This is a small Python practice using Peoject Euler (https://projecteuler.net/archives) exercises
+This is a small Python practice using Project Euler (https://projecteuler.net/archives) exercises
